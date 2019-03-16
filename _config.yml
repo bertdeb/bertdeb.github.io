@@ -2,5 +2,5 @@ name: Bert
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-architect
-title: Bert's GitHub Blog
+title: Header File
 description: Musings and Stumblings in Pursuit of Big Things
